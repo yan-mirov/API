@@ -1,0 +1,66 @@
+.form{
+    padding: 20px;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.weather-card{
+    display:flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+
+   
+    
+}
+.weather-img{
+    width: 96px;
+}
+
+.location{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+
+.unit{
+    font-family: fantasy;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.time{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+.loc{
+    width: 25px;
+}
+.date{
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
